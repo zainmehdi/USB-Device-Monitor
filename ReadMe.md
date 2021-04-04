@@ -26,6 +26,9 @@ Name = String indicating the name of the device (User defined)
 ## Usage
 
 ```
+Observer pattern has been used in this project. An observer will have to be created to recieve notifications.
+Please have a look at exampleObserver.cpp , exampleObserver.h and observer.h .
+
 Device monitor can be initialized in just 4 lines of code in your main()
 
 // Declaring monitor object
