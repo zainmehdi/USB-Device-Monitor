@@ -1,8 +1,7 @@
 
-# A Genric Device Monitor for USB Peripheral Devices
+# A Generic Device Monitor for USB Peripheral Devices
 
-This package uses libudev to monitor the status of any registered USB device on a linux machine. Once the device 
-is registered it can be monitored.
+This package uses libudev to monitor the status of any registered USB device on a linux machine. 
 
 ## Requirements
 
